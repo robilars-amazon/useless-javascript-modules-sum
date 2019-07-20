@@ -1,0 +1,25 @@
+{
+  "name": "@useless-javascript-modules/sum",
+  "version": "1.0.0",
+  "description": "A useless javascript module that sums numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robilars-amazon/useless-javascript-modules-sum.git"
+  },
+  "author": "Larson, Robin <robilars@amazon.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robilars-amazon/useless-javascript-modules-sum/issues"
+  },
+  "homepage": "https://github.com/robilars-amazon/useless-javascript-modules-sum#readme",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "@useless-javascript-modules/math": "^1.0.0"
+  }
+}
