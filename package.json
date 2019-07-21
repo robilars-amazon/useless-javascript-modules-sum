@@ -1,6 +1,6 @@
 {
   "name": "@useless-javascript-modules/sum",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A useless javascript module that sums numbers",
   "main": "index.js",
   "scripts": {
@@ -20,6 +20,6 @@
     "index.js"
   ],
   "dependencies": {
-    "@useless-javascript-modules/math": "^1.0.0"
+    "@useless-javascript-modules/math": "^3.0.0"
   }
 }
